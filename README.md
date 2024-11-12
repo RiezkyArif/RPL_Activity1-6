@@ -1,0 +1,1 @@
+# Activity perangkat lunak 1-6 mencakup serangkaian pertemuan yang dilakukan untuk mempelajari konsep-konsep penting dalam pengembangan perangkat lunak menggunakan Java. Materi yang dipelajari meliputi MVC, Hibernate, dan Spring boot
